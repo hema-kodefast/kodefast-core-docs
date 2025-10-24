@@ -1,27 +1,37 @@
 # New CSS additions in last 7 day(s) (Project APP)
 
-| File | Added CSS lines | Developers (last 7 days) |
-|------|-----------------|-------------------------------|
-| src/components/entity/ViewEntityData.vue | 717 | Bhavani Satya Sai Shivani Gollapalli(250), Tharuni Seru(177), Ramya sr Sibbala(159), Akkala Sai Mukesh Kumar(36), padmavathi(20) |
-| src/assets/css/app.scss | 195 | Tharuni Seru(25), Kodefast(25), Vibhakar@487(24), padmavathi(24), Sai Durga Yalamanchili(24) |
-| src/components/ConfigureEmployeeDocumentDraft.vue | 135 | Prasanna Challagali(15), Tharuni Seru(15), padmavathi(15), Akkala Sai Mukesh Kumar(15), Bhavani Satya Sai Shivani Gollapalli(15) |
-| src/components/templates/formComponentsExecute/MultiSelectExecute.vue | 76 | Akkala Sai Mukesh Kumar(19), Ramya sr Sibbala(19), hema_kodefast(19), Sravani Ambati(19) |
-| src/layouts/SidebarDefault.vue | 34 | Kodefast(15), Ramya sr Sibbala(11), Sai Durga Yalamanchili(4), Prudhvi Raju Buddharaju(4) |
-| src/components/companyDocuments/configureDocuments/ConfigureCompanyDocument.vue | 30 | Vibhakar@487(5), Tharuni Seru(5), Sai Sathvik Todeti(5), swarnabese(5), Kodefast(5) |
-| src/components/entity/RoleBasedAccessControlMenu.vue | 30 | Prudhvi Raju Buddharaju(15), Sai Durga Yalamanchili(15) |
-| src/components/entity/EntityTemplateCustomization.vue | 18 | Bhavani Satya Sai Shivani Gollapalli(2), Vibhakar@487(2), Sai Durga Yalamanchili(2), padmavathi(2), Kodefast(2) |
-| src/components/templates/formComponentsExecute/DataTableExecute.vue | 10 | Sai Sathvik Todeti(2), swarnabese(2), Tharuni Seru(2), Kodefast(2), Vibhakar@487(2) |
-| src/components/templates/AllTemplates.vue | 6 | Ramya sr Sibbala(2), Tharuni Seru(2), Kodefast(2) |
-| src/components/applicationUsers/applicationUsersTopbar.vue | 6 | Sai Durga Yalamanchili(2), Prudhvi Raju Buddharaju(2), Kodefast(2) |
-| src/components/application/createApplicationFromExcel.vue | 6 | Akkala Sai Mukesh Kumar(2), Kodefast(2), Sai Durga Yalamanchili(2) |
-| src/assets/css/vue-phone-number-input.scss | 3 | Sai Durga Yalamanchili(1), Prudhvi Raju Buddharaju(1), Kodefast(1) |
-| src/components/templates/formComponentsExecute/PhoneCountryCodeExecute.vue | 3 | Sai Durga Yalamanchili(1), Prudhvi Raju Buddharaju(1), Kodefast(1) |
-| src/components/entity/RoleBasedAccessControlPermissions.vue | 2 | Kodefast(1), Akkala Sai Mukesh Kumar(1) |
+| File | Added CSS lines | <style> | inline | Developers (last 7 days) |
+|------|-----------------|---------|--------|-------------------------------|
+| src/components/entity/ViewEntityData.vue | 723 | 717 | 6 | Bhavani Satya Sai Shivani Gollapalli(252), Tharuni Seru(179), Ramya sr Sibbala(161), Akkala Sai Mukesh Kumar(36), padmavathi(20) |
+| src/assets/css/app.scss | 195 | 0 | 0 | Tharuni Seru(25), Kodefast(25), Vibhakar@487(24), padmavathi(24), Sai Durga Yalamanchili(24) |
+| src/components/ConfigureEmployeeDocumentDraft.vue | 135 | 135 | 0 | Prasanna Challagali(15), Tharuni Seru(15), padmavathi(15), Akkala Sai Mukesh Kumar(15), Bhavani Satya Sai Shivani Gollapalli(15) |
+| src/components/templates/formComponentsExecute/MultiSelectExecute.vue | 76 | 76 | 0 | Akkala Sai Mukesh Kumar(19), Ramya sr Sibbala(19), hema_kodefast(19), Sravani Ambati(19) |
+| src/components/formBuilders/NewFormBuilder.vue | 41 | 0 | 41 | Sai Durga Yalamanchili(8), Kodefast(5), swarnabese(5), hema_kodefast(3), Kavya Kalidasu(3) |
+| src/layouts/SidebarDefault.vue | 34 | 34 | 0 | Kodefast(15), Ramya sr Sibbala(11), Sai Durga Yalamanchili(4), Prudhvi Raju Buddharaju(4) |
+| src/components/companyDocuments/configureDocuments/ConfigureCompanyDocument.vue | 30 | 30 | 0 | Vibhakar@487(5), Tharuni Seru(5), Kodefast(5), Sai Sathvik Todeti(5), swarnabese(5) |
+| src/components/entity/RoleBasedAccessControlMenu.vue | 30 | 30 | 0 | Prudhvi Raju Buddharaju(15), Sai Durga Yalamanchili(15) |
+| src/components/templates/formComponentsExecute/ActionButtonExecute.vue | 20 | 0 | 20 | Akkala Sai Mukesh Kumar(5), Ramya sr Sibbala(5), hema_kodefast(5), Sravani Ambati(5) |
+| src/components/entity/EntityTemplateCustomization.vue | 18 | 18 | 0 | Bhavani Satya Sai Shivani Gollapalli(2), Vibhakar@487(2), Sai Durga Yalamanchili(2), padmavathi(2), Kodefast(2) |
+| src/components/companyDocuments/AllDocuments.vue | 12 | 0 | 12 | Kavya Kalidasu(1), Bhavani Satya Sai Shivani Gollapalli(1), Vibhakar@487(1), Sravani Ambati(1), Sai Durga Yalamanchili(1) |
+| src/components/templates/templateFieldsPreview.vue | 10 | 0 | 10 | Ramya sr Sibbala(3), keerthanachelluboina(2), Kavya Kalidasu(2), Akkala Sai Mukesh Kumar(1), hema_kodefast(1) |
+| src/components/templates/formComponentsExecute/DataTableExecute.vue | 10 | 10 | 0 | Sai Sathvik Todeti(2), Tharuni Seru(2), swarnabese(2), Kodefast(2), Vibhakar@487(2) |
+| src/components/templates/AllTemplates.vue | 6 | 6 | 0 | Ramya sr Sibbala(2), Tharuni Seru(2), Kodefast(2) |
+| src/components/applicationUsers/applicationUsersTopbar.vue | 6 | 6 | 0 | Sai Durga Yalamanchili(2), Prudhvi Raju Buddharaju(2), Kodefast(2) |
+| src/components/templates/formComponentsExecute/MultiLineTextExecute.vue | 5 | 0 | 5 | Sai Durga Yalamanchili(2), Prudhvi Raju Buddharaju(2), Kodefast(1) |
+| src/components/templates/templateSubmittedData.vue | 4 | 0 | 4 | Kodefast(2), Ramya sr Sibbala(1), Tharuni Seru(1) |
+| src/components/entity/AddEditEntity.vue | 4 | 0 | 4 | Kodefast(2), Akkala Sai Mukesh Kumar(2) |
+| src/assets/css/vue-phone-number-input.scss | 3 | 0 | 0 | Sai Durga Yalamanchili(1), Prudhvi Raju Buddharaju(1), Kodefast(1) |
+| src/components/templates/formComponentsExecute/PhoneCountryCodeExecute.vue | 3 | 3 | 0 | Sai Durga Yalamanchili(1), Prudhvi Raju Buddharaju(1), Kodefast(1) |
+| src/components/entity/RoleBasedAccessControlPermissions.vue | 2 | 2 | 0 | Kodefast(1), Akkala Sai Mukesh Kumar(1) |
+| src/components/application/createApplicationFromExcel.vue | 2 | 2 | 0 | Akkala Sai Mukesh Kumar(2) |
 
 ## src/components/entity/ViewEntityData.vue
 
-- Developers (last 7 days): Bhavani Satya Sai Shivani Gollapalli(250), Tharuni Seru(177), Ramya sr Sibbala(159), Akkala Sai Mukesh Kumar(36), padmavathi(20)
-Showing up to 20 added lines:
+- Developers (last 7 days): Bhavani Satya Sai Shivani Gollapalli(252), Tharuni Seru(179), Ramya sr Sibbala(161), Akkala Sai Mukesh Kumar(36), padmavathi(20)
+- Style-block additions: 717
+- Inline style additions: 6
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -45,6 +55,17 @@ Showing up to 20 added lines:
 | 19282 | `    height: 100%;` |
 | 19284 | `  .drawer-welcome-msg {` |
 | 19285 | `    font-size: 16px;` |
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 55 | `              <img v-else :src="aiIconSrc" alt="AI Icon" style="width: 20px; height: 20px" />` |
+| 8604 | `                  :style="{ backgroundColor: msg.from === 'user' ? 'var(--brand-200)' : '#f0f0f0' }"` |
+| 8604 | `                  :style="{ backgroundColor: msg.from === 'user' ? 'var(--brand-200)' : '#f0f0f0' }"` |
+| 55 | `              <img v-else :src="aiIconSrc" alt="AI Icon" style="width: 20px; height: 20px" />` |
+| 8604 | `                  :style="{ backgroundColor: msg.from === 'user' ? 'var(--brand-200)' : '#f0f0f0' }"` |
+| 55 | `              <img v-else :src="aiIconSrc" alt="AI Icon" style="width: 20px; height: 20px" />` |
 
 ## src/assets/css/app.scss
 
@@ -77,7 +98,10 @@ Showing up to 20 added lines:
 ## src/components/ConfigureEmployeeDocumentDraft.vue
 
 - Developers (last 7 days): Prasanna Challagali(15), Tharuni Seru(15), padmavathi(15), Akkala Sai Mukesh Kumar(15), Bhavani Satya Sai Shivani Gollapalli(15)
-Showing up to 20 added lines:
+- Style-block additions: 135
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -105,7 +129,10 @@ Showing up to 20 added lines:
 ## src/components/templates/formComponentsExecute/MultiSelectExecute.vue
 
 - Developers (last 7 days): Akkala Sai Mukesh Kumar(19), Ramya sr Sibbala(19), hema_kodefast(19), Sravani Ambati(19)
-Showing up to 20 added lines:
+- Style-block additions: 76
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -130,10 +157,44 @@ Showing up to 20 added lines:
 | 543 | `</style>` |
 | 518 | `<style scoped>` |
 
+## src/components/formBuilders/NewFormBuilder.vue
+
+- Developers (last 7 days): Sai Durga Yalamanchili(8), Kodefast(5), swarnabese(5), hema_kodefast(3), Kavya Kalidasu(3)
+- Style-block additions: 0
+- Inline style additions: 41
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+| 1969 | `                                  <el-col :span="2" style="margin-left: 40px !important">` |
+| 1774 | `                                          :style="'margin-left: 5px; margin-right: 5px;'"` |
+| 1964 | `                                  <!-- <el-col :span="2" style="margin-left: 5px !important">` |
+
 ## src/layouts/SidebarDefault.vue
 
 - Developers (last 7 days): Kodefast(15), Ramya sr Sibbala(11), Sai Durga Yalamanchili(4), Prudhvi Raju Buddharaju(4)
-Showing up to 20 added lines:
+- Style-block additions: 34
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -160,8 +221,11 @@ Showing up to 20 added lines:
 
 ## src/components/companyDocuments/configureDocuments/ConfigureCompanyDocument.vue
 
-- Developers (last 7 days): Vibhakar@487(5), Tharuni Seru(5), Sai Sathvik Todeti(5), swarnabese(5), Kodefast(5)
-Showing up to 20 added lines:
+- Developers (last 7 days): Vibhakar@487(5), Tharuni Seru(5), Kodefast(5), Sai Sathvik Todeti(5), swarnabese(5)
+- Style-block additions: 30
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -189,7 +253,10 @@ Showing up to 20 added lines:
 ## src/components/entity/RoleBasedAccessControlMenu.vue
 
 - Developers (last 7 days): Prudhvi Raju Buddharaju(15), Sai Durga Yalamanchili(15)
-Showing up to 20 added lines:
+- Style-block additions: 30
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -214,10 +281,44 @@ Showing up to 20 added lines:
 | 2317 | `    align-items: start;` |
 | 2318 | `    justify-content: start;` |
 
+## src/components/templates/formComponentsExecute/ActionButtonExecute.vue
+
+- Developers (last 7 days): Akkala Sai Mukesh Kumar(5), Ramya sr Sibbala(5), hema_kodefast(5), Sravani Ambati(5)
+- Style-block additions: 0
+- Inline style additions: 20
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 288 | `                                style="height: 12px; width: 12px"` |
+| 295 | `                                style="height: 12px; width: 12px"` |
+| 322 | `                                style="height: 12px; width: 12px"` |
+| 333 | `                              style="height: 12px; width: 12px"` |
+| 342 | `                              style="height: 12px; width: 12px"` |
+| 288 | `                                style="height: 12px; width: 12px"` |
+| 295 | `                                style="height: 12px; width: 12px"` |
+| 322 | `                                style="height: 12px; width: 12px"` |
+| 333 | `                              style="height: 12px; width: 12px"` |
+| 342 | `                              style="height: 12px; width: 12px"` |
+| 288 | `                                style="height: 12px; width: 12px"` |
+| 295 | `                                style="height: 12px; width: 12px"` |
+| 322 | `                                style="height: 12px; width: 12px"` |
+| 333 | `                              style="height: 12px; width: 12px"` |
+| 342 | `                              style="height: 12px; width: 12px"` |
+| 288 | `                                style="height: 12px; width: 12px"` |
+| 295 | `                                style="height: 12px; width: 12px"` |
+| 322 | `                                style="height: 12px; width: 12px"` |
+| 333 | `                              style="height: 12px; width: 12px"` |
+| 342 | `                              style="height: 12px; width: 12px"` |
+
 ## src/components/entity/EntityTemplateCustomization.vue
 
 - Developers (last 7 days): Bhavani Satya Sai Shivani Gollapalli(2), Vibhakar@487(2), Sai Durga Yalamanchili(2), padmavathi(2), Kodefast(2)
-Showing up to 20 added lines:
+- Style-block additions: 18
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -239,20 +340,67 @@ Showing up to 20 added lines:
 | 763 | `    margin-left: 7px;` |
 | 762 | `  .editbutton-style {` |
 | 763 | `    margin-left: 7px;` |
+
+## src/components/companyDocuments/AllDocuments.vue
+
+- Developers (last 7 days): Kavya Kalidasu(1), Bhavani Satya Sai Shivani Gollapalli(1), Vibhakar@487(1), Sravani Ambati(1), Sai Durga Yalamanchili(1)
+- Style-block additions: 0
+- Inline style additions: 12
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 74 | `                <el-button style="height: 32px !important">` |
+| 74 | `                <el-button style="height: 32px !important">` |
+| 74 | `                <el-button style="height: 32px !important">` |
+| 74 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+| 67 | `                <el-button style="height: 32px !important">` |
+
+## src/components/templates/templateFieldsPreview.vue
+
+- Developers (last 7 days): Ramya sr Sibbala(3), keerthanachelluboina(2), Kavya Kalidasu(2), Akkala Sai Mukesh Kumar(1), hema_kodefast(1)
+- Style-block additions: 0
+- Inline style additions: 10
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 244 | `            :style="buttonStyles"` |
+| 321 | `            :style="buttonStyles"` |
+| 244 | `            :style="buttonStyles"` |
+| 321 | `            :style="buttonStyles"` |
+| 244 | `            :style="buttonStyles"` |
+| 321 | `            :style="buttonStyles"` |
+| 267 | `          style="margin-bottom: 10px; margin-top: 10px; display: flex; gap: 2px"` |
+| 267 | `          style="margin-bottom: 10px; margin-top: 10px; display: flex; gap: 2px"` |
+| 267 | `          style="margin-bottom: 10px; margin-top: 10px; display: flex; gap: 2px"` |
+| 267 | `          style="margin-bottom: 10px; margin-top: 10px; display: flex; gap: 2px"` |
 
 ## src/components/templates/formComponentsExecute/DataTableExecute.vue
 
-- Developers (last 7 days): Sai Sathvik Todeti(2), swarnabese(2), Tharuni Seru(2), Kodefast(2), Vibhakar@487(2)
-Showing up to 20 added lines:
+- Developers (last 7 days): Sai Sathvik Todeti(2), Tharuni Seru(2), swarnabese(2), Kodefast(2), Vibhakar@487(2)
+- Style-block additions: 10
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
-| 3616 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
-| 3661 | `            await this.fetchEntityFieldsData();` |
 | 3616 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
 | 3661 | `            await this.fetchEntityFieldsData();` |
 | 3615 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
 | 3660 | `            await this.fetchEntityFieldsData();` |
+| 3616 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
+| 3661 | `            await this.fetchEntityFieldsData();` |
 | 3615 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
 | 3660 | `            await this.fetchEntityFieldsData();` |
 | 3616 | `          if (!this.doNotApplyTableData && !this.savingData) {` |
@@ -261,7 +409,10 @@ Showing up to 20 added lines:
 ## src/components/templates/AllTemplates.vue
 
 - Developers (last 7 days): Ramya sr Sibbala(2), Tharuni Seru(2), Kodefast(2)
-Showing up to 20 added lines:
+- Style-block additions: 6
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -275,7 +426,10 @@ Showing up to 20 added lines:
 ## src/components/applicationUsers/applicationUsersTopbar.vue
 
 - Developers (last 7 days): Sai Durga Yalamanchili(2), Prudhvi Raju Buddharaju(2), Kodefast(2)
-Showing up to 20 added lines:
+- Style-block additions: 6
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -286,19 +440,51 @@ Showing up to 20 added lines:
 | 977 | `            color: var(--black-900);` |
 | 978 | `            font-size: 14px;` |
 
-## src/components/application/createApplicationFromExcel.vue
+## src/components/templates/formComponentsExecute/MultiLineTextExecute.vue
 
-- Developers (last 7 days): Akkala Sai Mukesh Kumar(2), Kodefast(2), Sai Durga Yalamanchili(2)
-Showing up to 20 added lines:
+- Developers (last 7 days): Sai Durga Yalamanchili(2), Prudhvi Raju Buddharaju(2), Kodefast(1)
+- Style-block additions: 0
+- Inline style additions: 5
+
+### Inline style added lines (up to 20)
 
 | Line | Code |
 |------|------|
-| 5915 | `    z-index: 1;` |
-| 6079 | `    border: none !important;` |
-| 5915 | `    z-index: 1;` |
-| 6079 | `    border: none !important;` |
-| 5915 | `    z-index: 1;` |
-| 6079 | `    border: none !important;` |
+| 46 | `            style="resize: none; min-height: 33px"` |
+| 46 | `            style="resize: none; min-height: 33px"` |
+| 46 | `            style="resize: none; min-height: 33px;"` |
+| 46 | `            style="resize: none; min-height: 33px;"` |
+| 46 | `            style="resize: none; min-height: 33px;"` |
+
+## src/components/templates/templateSubmittedData.vue
+
+- Developers (last 7 days): Kodefast(2), Ramya sr Sibbala(1), Tharuni Seru(1)
+- Style-block additions: 0
+- Inline style additions: 4
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 142 | `    <div v-else style="display: flex" class="mb-1">` |
+| 142 | `    <div v-else style="display: flex" class="mb-1">` |
+| 142 | `    <div v-else style="display: flex" class="mb-1">` |
+| 142 | `    <div v-else style="display: flex;" class="mb-1">` |
+
+## src/components/entity/AddEditEntity.vue
+
+- Developers (last 7 days): Kodefast(2), Akkala Sai Mukesh Kumar(2)
+- Style-block additions: 0
+- Inline style additions: 4
+
+### Inline style added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 1254 | `                          style="width: 100%"` |
+| 1278 | `                          style="width: 100%"` |
+| 1254 | `                          style="width: 100%"` |
+| 1278 | `                          style="width: 100%"` |
 
 ## src/assets/css/vue-phone-number-input.scss
 
@@ -314,7 +500,10 @@ Showing up to 20 added lines:
 ## src/components/templates/formComponentsExecute/PhoneCountryCodeExecute.vue
 
 - Developers (last 7 days): Sai Durga Yalamanchili(1), Prudhvi Raju Buddharaju(1), Kodefast(1)
-Showing up to 20 added lines:
+- Style-block additions: 3
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
@@ -325,9 +514,25 @@ Showing up to 20 added lines:
 ## src/components/entity/RoleBasedAccessControlPermissions.vue
 
 - Developers (last 7 days): Kodefast(1), Akkala Sai Mukesh Kumar(1)
-Showing up to 20 added lines:
+- Style-block additions: 2
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
 
 | Line | Code |
 |------|------|
 | 1197 | `    background-color: #007bff !important; /* Customize */` |
 | 1197 | `    background-color: #007bff !important; /* Customize */` |
+
+## src/components/application/createApplicationFromExcel.vue
+
+- Developers (last 7 days): Akkala Sai Mukesh Kumar(2)
+- Style-block additions: 2
+- Inline style additions: 0
+
+### Style-block added lines (up to 20)
+
+| Line | Code |
+|------|------|
+| 5915 | `    z-index: 1;` |
+| 6079 | `    border: none !important;` |
